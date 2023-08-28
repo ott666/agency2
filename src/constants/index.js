@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Recursos",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Produto",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Clientes",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Recompensas",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Os melhores cartões de crédito oferecem algumas combinações tentadoras de promoções e prêmios.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Seguro",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+    "Tomamos medidas proativas para garantir que suas informações e transações estejam seguras."
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Transferência de saldo",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Um cartão de crédito de transferência de saldo pode economizar muito dinheiro em taxas de juros.",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "O dinheiro é apenas uma ferramenta. Ele te levará para onde você deseja, mas não vai te substituir como o condutor.",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "CEO ",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "O dinheiro facilita a sua vida. Se você tem a sorte de tê-lo, é sortudo.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Diretor",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Geralmente, são as pessoas envolvidas no ramo financeiro, nas finanças e no comércio internacional que realmente são ricas.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Gerente",
     img: people03,
   },
 ];
@@ -73,82 +73,82 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Usuários ativos",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Empresas que confiam",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Transações",
     value: "$230M+",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Links Úteis",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Conteúdo",
+        link: "https://rapidinhosolutions.com.br/",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "Como funciona",
+        link: "https://rapidinhosolutions.com.br/",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "Criar",
+        link: "https://rapidinhosolutions.com.br/",
       },
       {
-        name: "Explore",
-        link: "https://www.hoobank.com/explore/",
+        name: "Explorar",
+        link: "https://rapidinhosolutions.com.br/",
       },
       {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        name: "Termos e serviços",
+        link: "https://rapidinhosolutions.com.br/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Comunidade",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "Centro de ajuda",
+        link: "https://rapidinhosolutions.com.br/",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "Parceiros",
+        link: "https://rapidinhosolutions.com.br/",
       },
       {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        name: "Sugestões",
+        link: "https://rapidinhosolutions.com.br/ ",
       },
       {
         name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        link: "https://rapidinhosolutions.com.br/ ",
       },
       {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        name: "Newsletter",
+        link: "https://rapidinhosolutions.com.br/ ",
       },
     ],
   },
   {
-    title: "Partner",
+    title: "Parceiro",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "Nossos parceiros",
+        link: "https://rapidinhosolutions.com.br/ ",
       },
       {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "Seja um parceiro",
+        link: "https://rapidinhosolutions.com.br/ ",
       },
     ],
   },
@@ -158,22 +158,22 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://rapidinhosolutions.com.br/ ",
   },
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://rapidinhosolutions.com.br/ ",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://rapidinhosolutions.com.br/ ",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://rapidinhosolutions.com.br/ ",
   },
 ];
 
